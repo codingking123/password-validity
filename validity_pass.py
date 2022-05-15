@@ -1,5 +1,4 @@
-# NAME: GAURAV YELURE
-# ROLL NO: BE20F05F070
+# CREATOR: @codingking123
 
 import re
 password=str(input("Enter a password which you want to check validity:"))
